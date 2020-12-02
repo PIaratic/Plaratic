@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<div style="background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/03/Purple-Polygon-Background.jpg');">
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<div id="navbar">
+  <a href="#home">Home</a>
+  <a href="/fsE4054S01-StudentFolders$/cohen.hammond/My%20Documents/Plasma%20Stuff/announcements.html">Announcements</a>
+  <a href="/fsE4054S01-StudentFolders$/cohen.hammond/My%20Documents/Plasma%20Stuff/contact.html">Contact</a>
+  <a href="/fsE4054S01-StudentFolders$/cohen.hammond/My%20Documents/Plasma%20Stuff/Help.html">Help</a>
+</div>
+
+</body>
+<html>
+<head>
+
+<h1>.</h1>
+
+<title style="font-family:verdana;color: white;"> Plaratic - Channel </title>
+
+</head>
+<h1 style="font-family:verdana;color: white;"> Plaratic - Channel </h1>
+
+<img src="file://e4054s01sv001.green.schools.internal/fsE4054S01-StudentFolders$/cohen.hammond/My%20Documents/Plasma%20Stuff/Plasma%20pfp%20-%20Copy%20(3).jpg" style="width:190px;height:238px;">
+
+<h1 style="font-family:verdana;color: white;">Welcome to my website! Watch the video below please!</h1>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/8pBbvBsNz30">
+</iframe>
+
+<h1 style="font-family:verdana;color: white;"> Latest Videos: </h1>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+</style>
+</head>
+<body>
+
+<div class="scrollmenu">
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/j-YYCC4GDLk">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/ap5q_daUY_A">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/GqxxFP3SEdo">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/EqQ4SHzklUM">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/w14dk9m62ns">
+</iframe>
+
+</div>
+</body>
+</html>
+
+<h1 style="font-family:verdana;color: white;"> Channel Info:</h1>
+<head>
+<style>
+<html>
+<head>
+<style>
+<body>
+
+
+<html>
+<head>
+<style>
+h1 {
+  border-style: solid;
+  border-color: purple;
+}
+
+div {
+  border-style: solid;
+  border-color: purple;
+}
+</style>
+</head>
+<body>
+
+<h2 style="font-family:verdana;color: white;">hello everyone! Welcome to my website!
+Below are some questions I'll answer:
+"What is Plaratic?"
+Plaratic is a YouTube channel that does giveaways and gaming videos like roblox and sometimes horror games and let's play videos etc.
+I don't really use good video equipment but I still want to make videos! I also make Live Streams so tune in for that.
+"Do you hope to reach 1000 subscribers?"
+Yes, I really do. I appreciate you subscribing as it really supports me and my channel.
+
+That's all! I hope you have fun!</h2>
+</body>
+</html>
+
+<h1 style="font-family:verdana;color: white;">Free Plaratic Phone Wallpaper:</h1>
+
+<img src="file://e4054s01sv001.green.schools.internal/fsE4054S01-StudentFolders$/cohen.hammond/My%20Documents/Plasma%20Stuff/Plaratic_Phone_Wallpaper.jpg" style="width="262" height="559;">
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+
+</style>
+</head>
+<body>
+
+<h1 style="font-family:verdana;color: white;">My Socials:</h1>
+
+<!-- Add font awesome icons -->
+
+<a href="https://www.youtube.com/channel/UCH6ZapPgJggSl8RDwuyo6eg"class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/plaratic/"class="fa fa-instagram"></a></a>
+      
+</body>
+</html> 
